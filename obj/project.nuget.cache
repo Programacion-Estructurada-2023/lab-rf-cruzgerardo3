@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFQM7WnBeDbt7F0ik5mpGM4SXEsQy/mDmG6v7QBphywOrV8oKGM4MTggDaVj3yDk5JJssaHNeCQmjcqrszKSfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gerardo\\Desktop\\Programacion estructurada\\Refuerzo\\lab-rf-cruzgerardo3\\lab-rf-cruzgerardo3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://packagesource'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
